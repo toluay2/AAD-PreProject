@@ -1,4 +1,4 @@
-package com.amrmustafa.AAD;
+package com.ayantundetolu.aad_preproject;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,7 +11,7 @@ import com.google.android.material.tabs.TabLayout;
 import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.amrmustafa.AAD.adapter.SectionsPagerAdapter;
+import com.ayantundetolu.aad_preproject.adapter.*;
 
 public class MainActivity extends AppCompatActivity {
 

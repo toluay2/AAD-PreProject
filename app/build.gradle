@@ -44,7 +44,7 @@ dependencies {
     //Recyclerview
     implementation 'com.android.support:recyclerview-v7:'+project.android_support_lib_version
     implementation 'com.mcxiaoke.volley:library:1.0.19'
-
+    implementation "android.arch.lifecycle:extensions:1.0.0"
 
 
 }
